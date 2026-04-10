@@ -54,5 +54,5 @@ I am a passionate Front-End Developer currently deep-diving into **Next.js** and
 
 <p align="left">
 <a href="https://linkedin.com/in/ali-alhamawy" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ali Al-Hamawy" /></a>
-<a href="اففحس:ظظalialhamawy2007@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ali.alhamawy@gmail.com" /></a>
+<a href="https://alialhamawy2007@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ali.alhamawy@gmail.com" /></a>
 </p>
