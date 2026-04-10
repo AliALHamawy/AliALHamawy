@@ -38,10 +38,17 @@ I am a passionate Front-End Developer currently deep-diving into **Next.js** and
 
 ---
 
-### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-alhamawy)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.alhamawy@gmail.com)
+---
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliALHamawy&show_icons=true&theme=radical&count_private=true" alt="Ali's GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliALHamawy&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 ---
 
 ### 📊 GitHub Stats!
