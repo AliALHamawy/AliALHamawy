@@ -36,26 +36,22 @@ I am a passionate Front-End Developer currently deep-diving into **Next.js** and
 * **[Portfolio](https://github.com/AliALHamawy/Portfolio)** - My personal space where I showcase my latest work and skills.
 * **[MovieTone](https://github.com/AliALHamawy/Movietone)** - A React-based movie database to help you find your next watch using the TMDB API.
 
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AliALHamawy&show_icons=true&theme=radical" alt="Ali's GitHub stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=AliALHamawy&cc=fe428e&tc=ffffff&ic=f8d847&bc=0d1117" alt="Ali's GitHub Stats" />
 </p>
 
 <p align="left">
-<img src="https://github-stats-alpha.vercel.app/api?username=AliALHamawy&cc=000&tc=fe428e&ic=f8d847&bc=141414" alt="Ali's GitHub Stats Alternative" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliALHamawy&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliALHamawy&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
 
 ### 🤝 Connect with me
+
 <p align="left">
 <a href="https://linkedin.com/in/ali-alhamawy" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ali Al-Hamawy" /></a>
 <a href="mailto:ali.alhamawy@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ali.alhamawy@gmail.com" /></a>
