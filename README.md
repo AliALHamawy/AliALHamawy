@@ -45,7 +45,7 @@ I am a passionate Front-End Developer currently deep-diving into **Next.js** and
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliALHamawy&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AliALHamawy&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
