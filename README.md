@@ -33,18 +33,18 @@ I am a passionate Front-End Developer currently deep-diving into **Next.js** and
 ---
 
 ### 📂 Top Projects
-* **[Portfolio]** - here u can find my projects
-* **[movie Tone]** - a website theat u can find your next movie or serie to watch
+* **[Portfolio](https://github.com/AliALHamawy/Portfolio)** - My personal space where I showcase my latest work and skills.
+* **[MovieTone](https://github.com/AliALHamawy/Movietone)** - A React-based movie database to help you find your next watch using the TMDB API.
 
 ---
 
 ### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-alhamawy)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.alhamawy@gmail.com)
 
 ---
 
 ### 📊 GitHub Stats!
-[Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliALHamawy&show_icons=true&theme=radical&count_private=true)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliALHamawy&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliALHamawy&layout=compact&theme=radical)
