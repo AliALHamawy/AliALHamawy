@@ -53,6 +53,6 @@ I am a passionate Front-End Developer currently deep-diving into **Next.js** and
 ### 🤝 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/ali-alhamawy" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ali Al-Hamawy" /></a>
-<a href="mailto:alialhamawy2007@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ali.alhamawy@gmail.com" /></a>
+<a href="https://linkedin.com/in/ali-alhamawy" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ali Al-Hamawy" /></a>
+<a href="mailto:alialhamawy2007@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ali.alhamawy@gmail.com" /></a>
 </p>
