@@ -36,7 +36,6 @@ I am a passionate Front-End Developer currently deep-diving into **Next.js** and
 * **[Portfolio](https://github.com/AliALHamawy/Portfolio)** - My personal space where I showcase my latest work and skills.
 * **[MovieTone](https://github.com/AliALHamawy/Movietone)** - A React-based movie database to help you find your next watch using the TMDB API.
 
----
 
 ---
 
@@ -50,8 +49,3 @@ I am a passionate Front-End Developer currently deep-diving into **Next.js** and
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliALHamawy&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 ---
-
-### 📊 GitHub Stats!
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliALHamawy&show_icons=true&theme=radical&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliALHamawy&layout=compact&theme=radical)
