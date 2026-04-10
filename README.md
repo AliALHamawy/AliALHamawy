@@ -33,7 +33,7 @@ I am a passionate Front-End Developer currently deep-diving into **Next.js** and
 ---
 
 ### 📂 Top Projects
-* **[Portfolio] ** - here u can find my projects
+* **[Portfolio]** - here u can find my projects
 * **[movie Tone]** - a website theat u can find your next movie or serie to watch
 
 ---
