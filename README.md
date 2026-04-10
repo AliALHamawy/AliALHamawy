@@ -41,11 +41,7 @@ I am a passionate Front-End Developer currently deep-diving into **Next.js** and
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliALHamawy&show_icons=true&theme=radical&count_private=true" alt="Ali's GitHub stats" />
-</p>
+![Ali's GitHub stats](https://github-readme-stats-one-eight.vercel.app/api?username=AliALHamawy&show_icons=true&theme=radical)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliALHamawy&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+![Top Langs](https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=AliALHamawy&layout=compact&theme=radical)
 ---
